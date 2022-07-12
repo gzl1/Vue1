@@ -1,0 +1,6 @@
+@mixin colors {
+    color: red;
+}
+a{
+    @include colors;
+}
